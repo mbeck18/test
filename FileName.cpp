@@ -10,6 +10,6 @@ using namespace std;
 int main()
 {
 
-	cout << "Hello World" << endl;
+	cout << "Hello World" << endl; // Great job on your first github project.
 
 }
